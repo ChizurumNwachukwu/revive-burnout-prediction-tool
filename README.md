@@ -253,7 +253,6 @@ Full reference list available in the thesis document.
 **Chizurum Nwachukwu** is a Data Scientist with an MRes in Computer Science (Middlesex University, 2026), an MSc in Data Science and Business Analytics (University of Plymouth), and a BA in Business Administration. His background spans healthcare, research, and technology.
 
 - LinkedIn: [linkedin.com/in/chizurum-data](https://www.linkedin.com/in/chizurum-data)
-- Portfolio: [datascienceportfol.io/chizurum](https://www.datascienceportfol.io/chizurum)
 - Email: hello.chizurum@gmail.com
 
 ---
