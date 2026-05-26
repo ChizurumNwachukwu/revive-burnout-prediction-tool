@@ -140,11 +140,11 @@ print(result['recommendations'])     # List of personalised recommendations
 
 ## Research Methodology
 
-This project applied the **User-Centred Intelligent Environments Development Process (UCIEDP)** (Augusto et al., 2018) — a co-design framework that prioritises continuous stakeholder involvement over rigid development cycles.
+This project applied a simplified version of **User-Centred Intelligent Environments Development Process (UCIEDP)** (Augusto et al., 2018)  a collaborative framework that prioritises continuous stakeholder involvement over rigid development cycles.
 
 ### Why UCIEDP over Agile or Waterfall?
 
-- Waterfall delays user feedback until testing — too late for meaningful iteration
+- Waterfall delays user feedback until testing. This is too late for meaningful iteration
 - Agile can prioritise short-term sprint output over long-term user value
 - UCIEDP centres stakeholder needs at every stage, including ethical and usability dimensions via the **eFRIENDS framework**
 
@@ -154,7 +154,7 @@ Random Forest and Support Vector Machines were considered but rejected because:
 
 > *"Random forests and support vector machine models are often treated as black box models because their prediction mechanisms are not transparent"* (Siemers & Bajorath, 2023)
 
-Decision trees offer **explainability** — every path from root to leaf node is traceable and understandable to non-technical users, which is critical in a mental health context where trust in the tool directly affects whether users act on recommendations.
+Decision trees offer **explainability** every path from root to leaf node is traceable and understandable to non-technical users, which is critical in a mental health context where trust in the tool directly affects whether users act on recommendations.
 
 ### Why OLBI over MBI?
 
@@ -188,7 +188,7 @@ Participants were located across London, Oxford, Plymouth, Leeds, Manchester, Ha
 Care workers described the constant need to be mentally present and physically ready. One participant stated: *"a care assistant cannot afford to be absent-minded due to the nature of the job."* Managers corroborated this, rating increased errors/near-misses and absenteeism as the highest-severity burnout indicators.
 
 **Theme 2 — Structural Barriers Leading to Burnout**
-Systemic issues — insufficient travel time between visits, 6-day working weeks, and poor work-life balance — were identified as primary burnout drivers. One participant described a visit ending at 7:30pm while the next was scheduled to begin at 7:30pm.
+Systemic issues: insufficient travel time between visits, 6-day working weeks, and poor work-life balance were identified as primary burnout drivers. One participant described a visit ending at 7:30pm while the next was scheduled to begin at 7:30pm.
 
 **Theme 3 — Desire for Digital Tools**
 All 5 interviewed participants used smartwatches daily. 90% of surveyed care assistants were at least slightly comfortable with digital tools — significantly higher than managers assumed. 70% wanted anonymous wellbeing tracking.
