@@ -1,4 +1,4 @@
-# REVIVE — Burnout Prediction Tool for Care Workers
+# REVIVE - Burnout Prediction Tool for Care Workers
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
@@ -8,7 +8,8 @@
 > **MRes Computer Science Research Project | Middlesex University | 2026**  
 > Researcher: Chizurum C. Nwachukwu | Supervisors: Prof. Juan Carlos Augusto, Dr Mark Springett
 
----
+<img width="436" height="622" alt="revive" src="https://github.com/user-attachments/assets/7c9bc446-a66d-41dd-98bc-fa440d457a1c" />
+
 
 ## Overview
 
