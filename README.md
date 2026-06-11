@@ -155,7 +155,7 @@ Random Forest and Support Vector Machines were considered but rejected because:
 
 > *"Random forests and support vector machine models are often treated as black box models because their prediction mechanisms are not transparent"* (Siemers & Bajorath, 2023)
 
-Decision trees offer **explainability** every path from root to leaf node is traceable and understandable to non-technical users, which is critical in a mental health context where trust in the tool directly affects whether users act on recommendations.
+Decision trees offer **explainability**; every path from root to leaf node is traceable and understandable to non-technical users, which is critical in a mental health context where trust in the tool directly affects whether users act on recommendations.
 
 ### Why OLBI over MBI?
 
@@ -186,20 +186,20 @@ Participants were located across London, Oxford, Plymouth, Leeds, Manchester, Ha
 ### Three Key Themes (Thematic Analysis)
 
 **Theme 1 - Physical and Emotional Exhaustion**
-Care workers described the constant need to be mentally present and physically ready. One participant stated: *"a care assistant cannot afford to be absent-minded due to the nature of the job."* Managers corroborated this, rating increased errors/near-misses and absenteeism as the highest-severity burnout indicators.
+Care workers described the constant need to be mentally present and physically ready. One participant stated: *"A care assistant cannot afford to be absent-minded due to the nature of the job."* Managers corroborated this, rating increased errors/near-misses and absenteeism as the highest-severity burnout indicators.
 
 **Theme 2 - Structural Barriers Leading to Burnout**
-Systemic issues: insufficient travel time between visits, 6-day working weeks, and poor work-life balance were identified as primary burnout drivers. One participant described a visit ending at 7:30pm while the next was scheduled to begin at 7:30pm.
+Systemic issues: insufficient travel time between visits, 6-day working weeks, and poor work-life balance were identified as primary burnout drivers. One participant described a visit ending at 7:30 pm, while the next was scheduled to begin at 7:30 pm.
 
 **Theme 3 - Desire for Digital Tools**
-All 5 interviewed participants used smartwatches daily. 90% of surveyed care assistants were at least slightly comfortable with digital tools — significantly higher than managers assumed. 70% wanted anonymous wellbeing tracking.
+All 5 interviewed participants used smartwatches daily. 90% of surveyed care assistants were at least slightly comfortable with digital tools, significantly higher than managers assumed. 70% wanted anonymous well-being tracking.
 
 ### Evaluation Results (Live Tool Testing, n=20)
 
 - 8/20 rated the tool **very easy** to use
 - 10/20 found recommendations **mostly accurate**
 - 12/20 said the tool **captured all elements** of burnout
-- Key trust driver: emotional validation — when the tool accurately reflected how participants felt, they were more willing to act on recommendations
+- Key trust driver: emotional validation when the tool accurately reflected how participants felt, they were more willing to act on recommendations
 
 ---
 
