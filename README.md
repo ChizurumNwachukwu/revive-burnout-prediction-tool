@@ -185,13 +185,13 @@ Participants were located across London, Oxford, Plymouth, Leeds, Manchester, Ha
 
 ### Three Key Themes (Thematic Analysis)
 
-**Theme 1 — Physical and Emotional Exhaustion**
+**Theme 1 - Physical and Emotional Exhaustion**
 Care workers described the constant need to be mentally present and physically ready. One participant stated: *"a care assistant cannot afford to be absent-minded due to the nature of the job."* Managers corroborated this, rating increased errors/near-misses and absenteeism as the highest-severity burnout indicators.
 
-**Theme 2 — Structural Barriers Leading to Burnout**
+**Theme 2 - Structural Barriers Leading to Burnout**
 Systemic issues: insufficient travel time between visits, 6-day working weeks, and poor work-life balance were identified as primary burnout drivers. One participant described a visit ending at 7:30pm while the next was scheduled to begin at 7:30pm.
 
-**Theme 3 — Desire for Digital Tools**
+**Theme 3 - Desire for Digital Tools**
 All 5 interviewed participants used smartwatches daily. 90% of surveyed care assistants were at least slightly comfortable with digital tools — significantly higher than managers assumed. 70% wanted anonymous wellbeing tracking.
 
 ### Evaluation Results (Live Tool Testing, n=20)
