@@ -15,7 +15,7 @@
 
 **REVIVE** is a web-based burnout prediction tool built for UK care home and home care assistants. It combines the validated **Oldenburg Burnout Inventory (OLBI)** with biometric data from wearable devices to classify users by burnout risk and deliver personalised, evidence-based intervention recommendations.
 
-The tool is live at **[revive-tool.com](http://revive-tool.com)** and has been evaluated by 65+ real-world participants across the UK.
+The tool is live at **[revive-tool.com](http://revive-tool.com)** and has been evaluated by real-world participants across the UK.
 
 This repository contains:
 - The Python implementation of the burnout classification decision tree
